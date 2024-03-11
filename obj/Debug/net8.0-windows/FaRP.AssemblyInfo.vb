@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("FaRP"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75b56d93581ba12b56cf72b92e418d449d7cd264"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("FaRP"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("FaRP"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
